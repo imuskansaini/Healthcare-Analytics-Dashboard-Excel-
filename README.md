@@ -12,7 +12,6 @@ This project is an interactive Healthcare Analytics Dashboard built using Micros
 - Patients by Gender
 - Patients by Blood Type
 - Patients by Admission Type
-- Patients by Hospital
 - Patients by Insurance Provider
 - Test Results Distribution
 - Average Age by Medical Condition
